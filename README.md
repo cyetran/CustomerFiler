@@ -20,9 +20,8 @@ This C++ program reads customer data from a file, filters them based on user-def
 
 ### Files
 
-- **main.cpp**: Contains the main function and the logic for reading and filtering data.
 - **person.h**: The header file containing the definition of the `Person` class.
-- **person.cpp**: The implementation file for the `Person` class.
+- **persondata.cpp**: The implementation file for the `Person` class.
 
 ## Compilation
 
